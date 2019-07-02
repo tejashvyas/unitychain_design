@@ -32,7 +32,7 @@ class MySocialComponent extends React.Component {
 		this.onClickToFeed = this.onClickToFeed.bind(this);
 	}
 
-	async componentDidMount() {
+	async componentDidMount() {		
 		this.props.LoadingAction(true);
 		const result = await this.props.getSocialFeed(this.state.active, this.props.User._id);
 		if (result.data.status && result.data.response.code == 200) {
@@ -128,11 +128,10 @@ class MySocialComponent extends React.Component {
 
 	render() {
 
-		const { facebook, instagram, twitter } = !_.isEmpty(this.state.socialAuth) ? this.state.socialAuth : {};
-
+		const { facebook, instagram, twitter } = !_.isEmpty(this.state.socialAuth) ? this.state.socialAuth : {};		
 		return (
 			<div className="mysocial slideInUp animated mt-3 social_identy">
-				<div className="first_part my-5 animated fadeIn f">
+				<div className="first_part py-2 animated fadeIn f">
 					<ul className="social">
 						<li>
 							{facebook != undefined && !facebook && (
@@ -329,6 +328,7 @@ class MySocialComponent extends React.Component {
 					<Content>
 						<Tabs defaultActiveKey="1">
 							<TabPane tab="All Post" key="1">
+								
 								<AllPostComponent data={this.state} />
 							</TabPane>
 							<TabPane tab="My Post" key="2">

@@ -3567,6 +3567,13 @@ h3.ant-typography.title2 {
 .tbl2 td, .tbl2 th{
 	padding: 10px !important;
 }
+
+.first_part.mt-5,.first_part.congra.my-5 { 
+	float: none; 
+	} 
+	a.close{ 
+	top: -40px; 
+	}
 /*---------------------------------My Uploads-----------------------------------------*/
 .myuploads .bxs {
 	margin: 0 0 40px 40px;
@@ -3735,4 +3742,7 @@ h1.ant-typography.title_24{
 }
 .ply_btn{
 cursor: pointer;
+}
+.first_part.py-2{
+	padding: 20px 0;
 }
