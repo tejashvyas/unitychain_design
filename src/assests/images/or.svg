@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_2171" data-name="Group 2171" transform="translate(-935 -643)">
+    <g id="Ellipse_163" data-name="Ellipse 163" transform="translate(935 643)" fill="#fff" stroke="rgba(0,133,255,0.1)" stroke-width="2">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24" fill="none"/>
+    </g>
+    <text id="OR" transform="translate(960 676)" font-size="20" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.04em"><tspan x="-14.91" y="0">OR</tspan></text>
+  </g>
+</svg>

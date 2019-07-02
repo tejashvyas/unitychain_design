@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91.784" height="29" viewBox="0 0 91.784 29">
+  <g id="Group_2475" data-name="Group 2475" transform="translate(-1627.216 -172)">
+    <path id="left-arrow" d="M9.088,4.971a.988.988,0,1,1,1.4,1.39L3.373,13.479H26.864a.989.989,0,0,1,1,.983,1,1,0,0,1-1,1H3.373l7.119,7.106a1.008,1.008,0,0,1,0,1.4.984.984,0,0,1-1.4,0l-8.8-8.8a.991.991,0,0,1,0-1.39Z" transform="translate(1627.217 172.324)" fill="#999"/>
+    <text id="Back" transform="translate(1668 196)" fill="#999" font-size="24" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Back</tspan></text>
+  </g>
+</svg>

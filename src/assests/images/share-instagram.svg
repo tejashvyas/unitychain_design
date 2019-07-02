@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="18" viewBox="0 0 21 18">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="21" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <rect width="21" height="18" fill="#fff"/>
+    <g id="send_2_" data-name="send (2)" transform="translate(47.288 210.681)">
+      <g id="Group_2540" data-name="Group 2540" transform="translate(-49.311 -214.45)">
+        <g id="Group_2539" data-name="Group 2539" transform="translate(0 0)">
+          <path id="Path_2558" data-name="Path 2558" d="M18.876.359a.389.389,0,0,0-.013-.064.431.431,0,0,0-.027-.067C18.83.216,18.828.2,18.821.191A.254.254,0,0,0,18.8.172a.429.429,0,0,0-.046-.052A.4.4,0,0,0,18.7.073c-.007,0-.012-.012-.019-.016A.389.389,0,0,0,18.65.042a.427.427,0,0,0-.069-.028A.431.431,0,0,0,18.521,0a.419.419,0,0,0-.072,0,.367.367,0,0,0-.067.011.376.376,0,0,0-.042.007L.278,6.188A.41.41,0,0,0,0,6.57a.414.414,0,0,0,.264.394l8.447,3.273,3.659,8.5a.412.412,0,0,0,.377.249h.021a.41.41,0,0,0,.37-.286L18.865.535A.31.31,0,0,0,18.87.5a.392.392,0,0,0,.009-.069A.413.413,0,0,0,18.876.359ZM1.616,6.6,16.935,1.37,8.917,9.432ZM12.687,17.392l-3.18-7.383L17.572,1.9Z" transform="translate(4.27 0) rotate(13)" fill="#999" stroke="#999" stroke-width="0.45"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

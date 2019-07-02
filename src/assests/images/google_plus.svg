@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.61" height="76.61" viewBox="0 0 76.61 76.61">
+  <defs>
+    <filter id="Rectangle_283" x="0" y="0" width="76.61" height="76.61" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#0085ff" flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2004" data-name="Group 2004" transform="translate(-604 -683)">
+    <g id="Group_2000" data-name="Group 2000">
+      <g transform="matrix(1, 0, 0, 1, 604, 683)" filter="url(#Rectangle_283)">
+        <rect id="Rectangle_283-2" data-name="Rectangle 283" width="58.61" height="58.61" rx="29" transform="translate(9 9)" fill="#ac92d4"/>
+      </g>
+    </g>
+    <g id="google-plus-circular-button" transform="translate(489.739 557)">
+      <g id="Group_1999" data-name="Group 1999" transform="translate(141.261 153)">
+        <path id="Path_1694" data-name="Path 1694" d="M155.462,170.027c0-2.051-1.188-3.062-2.5-4.162l-1.07-.832a1.626,1.626,0,0,1-.772-1.277,2.09,2.09,0,0,1,.832-1.456c1.247-.981,2.5-2.02,2.5-4.219a5.009,5.009,0,0,0-2.109-4.012h1.841l1.9-1.07h-6.121a8.1,8.1,0,0,0-5.319,1.634,5.342,5.342,0,0,0-1.9,3.981,4.7,4.7,0,0,0,4.931,4.665c.3,0,.623-.03.952-.059a2.668,2.668,0,0,0-.3,1.159,3.118,3.118,0,0,0,.891,2.02,12.785,12.785,0,0,0-5.675,1.366,4.277,4.277,0,0,0-2.288,3.626c0,2.2,2.081,4.249,6.389,4.249C152.758,175.643,155.462,172.819,155.462,170.027Zm-6.389-7.577c-2.556,0-3.715-3.3-3.715-5.289a3.429,3.429,0,0,1,.654-2.2,2.778,2.778,0,0,1,2.081-.982c2.467,0,3.744,3.329,3.744,5.467a3,3,0,0,1-.743,2.17A3.049,3.049,0,0,1,149.073,162.451Zm.03,11.944c-3.179,0-5.23-1.515-5.23-3.624a3.34,3.34,0,0,1,2.556-3.06,11.912,11.912,0,0,1,3.12-.477,4.7,4.7,0,0,1,.682.03c2.26,1.6,3.238,2.406,3.238,3.922C153.471,173.028,151.956,174.394,149.1,174.394Z" transform="translate(-141.261 -153)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        <path id="Path_1695" data-name="Path 1695" d="M353.068,251.988h3.217V255.2h1.608v-3.215h3.215V250.38h-3.215v-3.215h-1.608v3.215h-3.217Z" transform="translate(-338.599 -240.732)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

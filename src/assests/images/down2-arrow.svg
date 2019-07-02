@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="101.4" viewBox="0 0 22 101.4">
+  <g id="Group_2421" data-name="Group 2421" transform="translate(-1842 -593.6)">
+    <g id="upload" transform="translate(-3724.751 -5460.4) rotate(180)">
+      <g id="Group_2420" data-name="Group 2420" transform="translate(-5588.025 -6155.4)">
+        <path id="Path_2173" data-name="Path 2173" d="M154.612,128.241a1.041,1.041,0,0,0,1.045-1.045V89.169l7.8,7.8a1.045,1.045,0,0,0,1.478-1.478l-9.588-9.588a1.045,1.045,0,0,0-1.478,0l-9.588,9.588a1.045,1.045,0,0,0,1.478,1.478l7.8-7.8V127.2A1.041,1.041,0,0,0,154.612,128.241Z" transform="translate(-143.975 -85.6)" fill="#000"/>
+      </g>
+    </g>
+    <text id="Down" transform="translate(1846 642.6) rotate(90)" font-size="18" font-family="Lato-Bold, Lato" font-weight="700" opacity="1"><tspan x="-48.357" y="0">Down</tspan></text>
+  </g>
+</svg>

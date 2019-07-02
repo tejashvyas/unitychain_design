@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="18" viewBox="0 0 21 18">
+  <defs>
+    <clipPath id="clip-Artboard_4">
+      <rect width="21" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_4" data-name="Artboard – 4" clip-path="url(#clip-Artboard_4)">
+    <rect width="21" height="18" fill="#fff"/>
+    <g id="heart-black-shape" transform="translate(1 -30.653)">
+      <g id="Group_2538" data-name="Group 2538" transform="translate(0 31.653)">
+        <path id="Path_2556" data-name="Path 2556" d="M13.759,31.653A5.5,5.5,0,0,0,9.5,33.935a5.5,5.5,0,0,0-4.259-2.282A5.119,5.119,0,0,0,0,36.64a4.768,4.768,0,0,0,.076.841v0c0,5.735,9.424,10.17,9.424,10.17s9.424-4.284,9.424-10.17v0A4.768,4.768,0,0,0,19,36.64,5.119,5.119,0,0,0,13.759,31.653Z" transform="translate(0 -31.653)" fill="none" stroke="#999" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

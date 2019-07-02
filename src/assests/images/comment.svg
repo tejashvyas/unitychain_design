@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.15" height="13.15" viewBox="0 0 66.15 13.15">
+  <g id="Group_2262" data-name="Group 2262" transform="translate(-708.85 -670.85)">
+    <text id="Comment" transform="translate(731 682)" fill="#999" font-size="10" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Comment</tspan></text>
+    <g id="speech-bubble-outline-of-rectangular-shape_1_" data-name="speech-bubble-outline-of-rectangular-shape (1)" transform="translate(709 624.812)">
+      <g id="Polygon_1" transform="translate(0 46.188)">
+        <g id="Group_2258" data-name="Group 2258">
+          <path id="Path_1976" data-name="Path 1976" d="M13.916,46.188H.835A.835.835,0,0,0,0,47.023v8.072a.835.835,0,0,0,.835.835h.858L3.2,58.713,4.708,55.93h9.209a.835.835,0,0,0,.835-.835V47.023A.835.835,0,0,0,13.916,46.188Zm.278,8.35a.835.835,0,0,1-.835.835H4.32l-1.1,1.905-1.1-1.905H1.392a.835.835,0,0,1-.835-.835V47.58a.835.835,0,0,1,.835-.835H13.36a.835.835,0,0,1,.835.835v6.958Z" transform="translate(0 -46.188)" fill="#999" stroke="#999" stroke-width="0.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

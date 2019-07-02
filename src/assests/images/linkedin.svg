@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.61" height="76.61" viewBox="0 0 76.61 76.61">
+  <defs>
+    <filter id="Rectangle_282" x="0" y="0" width="76.61" height="76.61" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#feba00" flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2001" data-name="Group 2001" transform="translate(-496 -683)">
+    <g transform="matrix(1, 0, 0, 1, 496, 683)" filter="url(#Rectangle_282)">
+      <rect id="Rectangle_282-2" data-name="Rectangle 282" width="58.61" height="58.61" rx="29" transform="translate(9 9)" fill="#8cd7b9"/>
+    </g>
+    <g id="linked-in-logo-of-two-letters" transform="translate(522 686.084)">
+      <g id="Group_1998" data-name="Group 1998" transform="translate(0 23.916)">
+        <path id="Path_1691" data-name="Path 1691" d="M.813,194.7H4.066a.813.813,0,0,0,.813-.813V179.663a.813.813,0,0,0-.813-.813H.813a.813.813,0,0,0-.813.813v14.222A.813.813,0,0,0,.813,194.7Z" transform="translate(0 -171.835)" fill="#fff"/>
+        <path id="Path_1692" data-name="Path 1692" d="M.813,28.431H4.066a.813.813,0,0,0,.813-.813V24.729a.813.813,0,0,0-.813-.813H.813A.813.813,0,0,0,0,24.729v2.889A.813.813,0,0,0,.813,28.431Z" transform="translate(0 -23.916)" fill="#fff"/>
+        <path id="Path_1693" data-name="Path 1693" d="M197.128,171.711a4.948,4.948,0,0,0-2.023-1.485,7.324,7.324,0,0,0-2.952-.582,7.229,7.229,0,0,0-5.556,2.5c-.3.332-.522.259-.522-.19v-1.083a.813.813,0,0,0-.813-.813h-2.906a.813.813,0,0,0-.813.813V185.1a.813.813,0,0,0,.813.813h3.254a.813.813,0,0,0,.813-.813V180.15a15.911,15.911,0,0,1,.373-4.237,3.5,3.5,0,0,1,1.38-1.84,3.912,3.912,0,0,1,2.275-.695,2.9,2.9,0,0,1,1.693.486,2.71,2.71,0,0,1,1.016,1.363,14.542,14.542,0,0,1,.313,3.864V185.1a.813.813,0,0,0,.813.813h3.254a.813.813,0,0,0,.813-.813v-8.054a15.252,15.252,0,0,0-.269-3.282A5.375,5.375,0,0,0,197.128,171.711Z" transform="translate(-173.324 -163.047)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="49" viewBox="0 0 161 49">
+  <g id="Group_1976" data-name="Group 1976" transform="translate(-1581 -21)">
+    <g id="Rectangle_252" data-name="Rectangle 252" transform="translate(1581 21)" fill="none" stroke="#999" stroke-width="2" opacity="0.3">
+      <rect width="161" height="49" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="159" height="47" rx="4" fill="none"/>
+    </g>
+    <text id="Message" transform="translate(1641 54)" fill="#999" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.02em" opacity="0.3"><tspan x="0" y="0">Message</tspan></text>
+    <g id="email" transform="translate(1602 -23.5)" opacity="0.3">
+      <g id="Group_1970" data-name="Group 1970" transform="translate(0 60.5)">
+        <path id="Path_1664" data-name="Path 1664" d="M23.063,71.328A.937.937,0,0,0,24,70.391V64.25a3.754,3.754,0,0,0-3.75-3.75H3.75A3.754,3.754,0,0,0,0,64.25V75.078a3.754,3.754,0,0,0,3.75,3.75h16.5A3.754,3.754,0,0,0,24,75.078a.938.938,0,0,0-1.875,0,1.877,1.877,0,0,1-1.875,1.875H3.75a1.877,1.877,0,0,1-1.875-1.875V64.449l8.145,5.065a3.727,3.727,0,0,0,3.96,0l8.145-5.065v5.942A.937.937,0,0,0,23.063,71.328ZM12.99,67.921a1.863,1.863,0,0,1-1.98,0L2.657,62.727a1.865,1.865,0,0,1,1.093-.352h16.5a1.865,1.865,0,0,1,1.093.352Z" transform="translate(0 -60.5)" fill="#999"/>
+      </g>
+    </g>
+  </g>
+</svg>

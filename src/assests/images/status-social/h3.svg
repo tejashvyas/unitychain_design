@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#886cfe"/>
+      <stop offset="1" stop-color="#ba66ea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#886cfe"/>
+      <stop offset="1" stop-color="#c066e8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2134" data-name="Group 2134" transform="translate(-1459 -2136)">
+    <circle id="Ellipse_94" data-name="Ellipse 94" cx="36" cy="36" r="36" transform="translate(1459 2136)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <g id="gymnast-control-of-heart-beats" transform="translate(1480 2147.671)">
+      <path id="Path_1672" data-name="Path 1672" d="M25.62,12.381A8.48,8.48,0,0,0,15,14.4,8.475,8.475,0,0,0,0,19.807a8.348,8.348,0,0,0,.419,2.612,7.771,7.771,0,0,0,.568,1.6H6.46l1.373-2.3a1.136,1.136,0,0,1,1.928-.036l1.982,3.055,2.437-6.584a1.136,1.136,0,0,1,1.063-.742h0a1.137,1.137,0,0,1,1.065.74l2.184,5.867h3.756a1.136,1.136,0,1,1,0,2.271H17.707a1.142,1.142,0,0,1-1.066-.739l-1.391-3.738-2.159,5.839a1.137,1.137,0,0,1-.939.734,1.211,1.211,0,0,1-.124.007,1.142,1.142,0,0,1-.954-.517L8.852,24.451l-.77,1.287a1.141,1.141,0,0,1-.976.555H2.369C6.425,31.81,15,37.2,15,37.2s13.125-8.246,14.579-14.782A8.463,8.463,0,0,0,25.62,12.381Z" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

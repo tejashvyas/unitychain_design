@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="18" viewBox="0 0 21 18">
+  <defs>
+    <clipPath id="clip-Artboard_2">
+      <rect width="21" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
+    <rect width="21" height="18" fill="#fff"/>
+    <g id="talk-oval-bubble-with-minus-sign" transform="translate(5 -3.922)">
+      <path id="Path_2557" data-name="Path 2557" d="M9.5,4.922c-5.238,0-9.5,3.456-9.5,7.7s4.262,7.7,9.5,7.7a11.32,11.32,0,0,0,3.709-.614l3.207,1.19a.3.3,0,0,0,.1.016.265.265,0,0,0,.149-.045.256.256,0,0,0,.115-.211V17.573A6.888,6.888,0,0,0,19,12.626C19,8.378,14.738,4.922,9.5,4.922Z" transform="translate(-4 0)" fill="none" stroke="#999" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+  body {
+    background-color: #333;
+  }
+  #wrap {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+  }
+  .cube-wrapper {
+    -webkit-perspective: 800px;
+    -webkit-perspective-origin: 50% 50px;
+    perspective: 800px;
+    perspective-origin: 50% 50px;
+  }
+  .cube {
+    position: relative;
+    width: 100px;
+    -webkit-transform-style: preserve-3d;
+    -webkit-transform-origin: 50px 50px 0px;
+    
+    transform-style: preserve-3d;
+    transform-origin: 50px 50px 0px;
+  }
+  .cube div {
+    outline: 1px solid #999;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    opacity: 0.7;
+    box-shadow: inset 0px 0px 50px #555;
+    cursor: pointer;
+    /* background-image: url(https://dl.dropboxusercontent.com/u/82861970/codepen/images/logo.png); */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .cube div.back {
+    -webkit-transform: translateZ(-50px) rotateY(180deg);
+    transform: translateZ(-50px) rotateY(180deg);
+    background-color: #6150FE;
+  }
+  .cube div.right {
+    -webkit-transform: rotateY(-270deg) translateX(50px);
+    -webkit-transform-origin: top right;
+    transform: rotateY(-270deg) translateX(50px);
+    transform-origin: top right;
+    background-color: #E19C51;
+  }
+  .cube div.left {
+    -webkit-transform: rotateY(270deg) translateX(-50px);
+    -webkit-transform-origin: center left;
+    transform: rotateY(270deg) translateX(-50px);
+    transform-origin: center left;
+    background-color: #04689B;
+  }
+  .cube div.top {
+    -webkit-transform: rotateX(-90deg) translateY(-50px);
+    -webkit-transform-origin: top center;
+    transform: rotateX(-90deg) translateY(-50px);
+    transform-origin: top center;
+    background-color: #B0A248;
+  }
+  .cube div.bottom {
+    -webkit-transform: rotateX(90deg) translateY(50px);
+    -webkit-transform-origin: bottom center;
+    
+    transform: rotateX(90deg) translateY(50px);
+    transform-origin: bottom center;
+    background-color: #4CCDAA;
+  }
+  .cube div.front {
+    -webkit-transform: translateZ(50px);
+    transform: translateZ(50px);
+    background-color: #9e9e9e;
+  }
+  

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Group_2254" data-name="Group 2254" transform="translate(-313 -707)">
+    <g id="Ellipse_149" data-name="Ellipse 149" transform="translate(313 707)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="instagram" transform="translate(313 707)">
+      <path id="Path_1972" data-name="Path 1972" d="M29.156,23.88H24.97a1.213,1.213,0,0,0-1.211,1.211v4.185a1.213,1.213,0,0,0,1.211,1.212h4.185a1.213,1.213,0,0,0,1.212-1.212V25.091A1.213,1.213,0,0,0,29.156,23.88Zm-2.093,5.479a2.175,2.175,0,1,1,2.175-2.175A2.178,2.178,0,0,1,27.063,29.359Zm2.245-3.9a.515.515,0,1,1,.515-.515A.515.515,0,0,1,29.308,25.458Z" transform="translate(-20.063 -20.165)" fill="#d23d9b"/>
+      <path id="Path_1973" data-name="Path 1973" d="M38.105,36.971a1.256,1.256,0,1,0,1.256,1.256A1.258,1.258,0,0,0,38.105,36.971Z" transform="translate(-31.105 -31.208)" fill="#d23d9b"/>
+      <path id="Path_1974" data-name="Path 1974" d="M7,0a7,7,0,1,0,7,7A7,7,0,0,0,7,0Zm4.211,9.105A2.127,2.127,0,0,1,9.086,11.23H4.914A2.127,2.127,0,0,1,2.789,9.105V4.933A2.127,2.127,0,0,1,4.914,2.808H9.086a2.127,2.127,0,0,1,2.124,2.124Z" fill="#d23d9b"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.877" height="19.877" viewBox="0 0 19.877 19.877">
+  <g id="clock" transform="translate(-0.4 0.1)">
+    <path id="Path_1890" data-name="Path 1890" d="M9.839,0a9.839,9.839,0,1,0,9.839,9.839A9.85,9.85,0,0,0,9.839,0Zm0,19.021a9.183,9.183,0,1,1,9.183-9.183A9.193,9.193,0,0,1,9.839,19.021Z" transform="translate(0.5)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1891" data-name="Path 1891" d="M22.708,18.914V15.241a.362.362,0,0,0-.724,0v3.673a1.447,1.447,0,0,0-1.035,1.035H18.362a.362.362,0,0,0,0,.724h2.587a1.446,1.446,0,1,0,1.759-1.759Zm-.362,2.122a.724.724,0,1,1,.724-.724A.725.725,0,0,1,22.346,21.036Z" transform="translate(-11.5 -9.879)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1892" data-name="Path 1892" d="M29.43,8.17a.43.43,0,0,0,.43-.43v-.43a.43.43,0,0,0-.861,0v.43A.43.43,0,0,0,29.43,8.17Z" transform="translate(-19.5 -3.918)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1893" data-name="Path 1893" d="M29.43,49.879a.43.43,0,0,0-.43.43v.43a.43.43,0,1,0,.861,0v-.43A.43.43,0,0,0,29.43,49.879Z" transform="translate(-19.592 -34.558)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1894" data-name="Path 1894" d="M50.861,28.879h-.43a.43.43,0,0,0,0,.861h.43a.43.43,0,1,0,0-.861Z" transform="translate(-34.627 -19.51)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1895" data-name="Path 1895" d="M7.861,28.879H7.43a.43.43,0,0,0,0,.861h.43a.43.43,0,1,0,0-.861Z" transform="translate(-3.987 -19.51)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1896" data-name="Path 1896" d="M44.279,13.448l-.3.3a.43.43,0,1,0,.609.609l.3-.3a.43.43,0,0,0-.609-.609Z" transform="translate(-29.681 -9.018)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1897" data-name="Path 1897" d="M13.874,43.854l-.3.3a.43.43,0,1,0,.609.609l.3-.3a.43.43,0,1,0-.609-.609Z" transform="translate(-9.1 -29.599)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1898" data-name="Path 1898" d="M44.584,43.854a.43.43,0,1,0-.609.609l.3.3a.43.43,0,0,0,.609-.609Z" transform="translate(-29.681 -29.599)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+    <path id="Path_1899" data-name="Path 1899" d="M14.179,13.448a.43.43,0,0,0-.609.609l.3.3a.43.43,0,1,0,.609-.609Z" transform="translate(-9.1 -9.017)" fill="#886cfe" stroke="#886cfe" stroke-width="0.2"/>
+  </g>
+</svg>

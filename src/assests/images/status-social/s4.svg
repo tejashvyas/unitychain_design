@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_2107" data-name="Group 2107" transform="translate(-1425.191 -302.242)">
+    <circle id="Ellipse_85" data-name="Ellipse 85" cx="40" cy="40" r="40" transform="translate(1425.192 302.242)" fill="rgba(255,255,255,0.2)"/>
+    <g id="favorite-heart-button" transform="translate(1445.503 324.692)">
+      <g id="favorite" transform="translate(0 0)">
+        <path id="Path_1656" data-name="Path 1656" d="M19.173,55.677l-2.684-2.684C6.519,44.174,0,38.23,0,30.945A10.4,10.4,0,0,1,10.545,20.4a11.522,11.522,0,0,1,8.628,4.026A11.522,11.522,0,0,1,27.8,20.4,10.4,10.4,0,0,1,38.345,30.945c0,7.286-6.519,13.229-16.488,22.048Z" transform="translate(0 -20.4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
