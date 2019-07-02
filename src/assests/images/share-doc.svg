@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="25.455" viewBox="0 0 35 25.455">
+  <g id="add-user-button" transform="translate(0 -76.5)">
+    <g id="person-add" transform="translate(0 76.5)">
+      <path id="Path_1937" data-name="Path 1937" d="M22.273,89.227a6.364,6.364,0,1,0-6.364-6.364A6.382,6.382,0,0,0,22.273,89.227ZM7.955,86.045V81.273H4.773v4.773H0v3.182H4.773V94H7.955V89.227h4.773V86.045Zm14.318,6.364c-4.3,0-12.727,2.068-12.727,6.364v3.182H35V98.773C35,94.477,26.568,92.409,22.273,92.409Z" transform="translate(0 -76.5)" fill="#999"/>
+    </g>
+  </g>
+</svg>

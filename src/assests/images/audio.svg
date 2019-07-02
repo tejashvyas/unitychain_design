@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_2539" data-name="Group 2539" transform="translate(-1357 -271)">
+    <path id="Path_2557" data-name="Path 2557" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" transform="translate(1357 271)" fill="rgba(255,255,255,0.2)"/>
+    <g id="headphone-symbol" transform="translate(1376 270.195)">
+      <g id="Group_2059" data-name="Group 2059" transform="translate(0 22.804)">
+        <path id="Path_1929" data-name="Path 1929" d="M62.743,146.414V161.1a1.582,1.582,0,1,0,3.165,0V146.414a1.582,1.582,0,0,0-3.165,0Z" transform="translate(-53.381 -126.625)" fill="#fff"/>
+        <path id="Path_1930" data-name="Path 1930" d="M4.395,58.878H7.879V41.444a2.214,2.214,0,0,0,.025-.253,13.533,13.533,0,1,1,27.064,0,2.2,2.2,0,0,0,.034.338v17.35h3.485a4.472,4.472,0,0,0,4.393-4.546V45.24a4.528,4.528,0,0,0-3.172-4.364,18.272,18.272,0,0,0-36.542,0A4.524,4.524,0,0,0,0,45.242v9.09A4.473,4.473,0,0,0,4.395,58.878Z" transform="translate(0 -22.804)" fill="#fff"/>
+        <path id="Path_1931" data-name="Path 1931" d="M203.454,146.414V161.1a1.582,1.582,0,1,0,3.164,0V146.414a1.582,1.582,0,1,0-3.164,0Z" transform="translate(-173.098 -126.625)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

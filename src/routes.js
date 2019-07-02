@@ -4,6 +4,7 @@ import { AppsPage } from './views/Apps';
 import { Login } from './views/Login';
 import DummyDataComponent from './components/dummyDataComponent';
 import TestNet from './views/Testnet/testnetPage';
+import { PersonalFilesPage } from './views/PersonalFiles/index';
 import checkAuth from './components/Require_auth';
 
 const routes = [
@@ -13,7 +14,7 @@ const routes = [
 	{ path: '/app/user-facebook-data', exact: true, name: 'Encrypted Chat', component: checkAuth(DummyDataComponent) },
 	{ path: '/app/my-social', exact: true, name: 'My Social', component: checkAuth(AppsPage) },
 	{ path: '/testnet', exact: true, name: 'Testnet', component: checkAuth(TestNet) },
-	{ path: '/app/wholesome', exact: true, name: 'Wholesome', component: checkAuth(Dashboard) },
+	{ path: '/personal-files', exact: true, name: 'Personal Files', component: checkAuth(PersonalFilesPage) },
 	{ path: '/app/my-collections', exact: true, name: 'My Collections', component: checkAuth(Dashboard) },
 	{ path: '/app/content-mutual', exact: true, name: 'Content Mutual', component: checkAuth(Dashboard) },
 	{ path: '/app/recommendations', exact: true, name: 'Recommendations', component: checkAuth(Dashboard) },

@@ -3,9 +3,9 @@ const nav = [
 	{ path: '/dashboard', index: 1, icon: 'dashboard.svg', exact: true, name: 'Dashboard' },
 	{ path: '/app/my-social', index: 2, icon: 'folder.svg', exact: true, name: 'Apps' },
 	{ path: '/app/user-facebook-data', index: 3, icon: 'app.svg', exact: true, name: 'Facebook Data' },
-	{ path: '/testnet', index: 4, icon: 'testnet.svg', exact: true, name: 'Testnet' },
-	{ path: '/profile', index: 4, icon: 'app.svg', exact: false, name: 'Profile' },
-
+	{ path: '/personal-files', index: 4, icon: 'folder.svg', exact: true, name: 'Personal Files' },
+	{ path: '/testnet', index: 5, icon: 'testnet.svg', exact: true, name: 'Testnet' },
+	{ path: '/profile', index: 6, icon: 'app.svg', exact: false, name: 'Profile' },
 	// {
 	//     path: '/app',
 	//     icon: 'app.svg',
